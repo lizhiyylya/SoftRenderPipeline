@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/renderpipeline/renderPipeline/.vs/renderPipeline/v15/Browse.VC.opendb
