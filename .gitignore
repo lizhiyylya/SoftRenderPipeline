@@ -31,3 +31,6 @@
 *.out
 *.app
 /renderpipeline/renderPipeline/.vs/renderPipeline/v15/Browse.VC.opendb
+/renderpipeline/renderPipeline/renderPipeline/x64
+/renderpipeline/renderPipeline/renderPipeline/Debug
+/renderpipeline/renderPipeline/.vs/renderPipeline/v15/Browse.VC.db
